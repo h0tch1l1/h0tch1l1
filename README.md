@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ren</h1>
+<h3 align="center">WordPress Designer | SEO Specialist | IT Student</h3>
 
-<!--
-**h0tch1l1/h0tch1l1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌍 About Me  
+👩‍💻 I’m **REN** — passionate about **WordPress design, SEO, and programming**.  
+📊 Currently learning **Data Analytics, Python, and SQL** to blend design with insights.  
+⚡ Fun fact: Founder of [KodeCraze.com](https://kodecraze.com/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Languages I Know  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+</div>
+
+---
+
+### 📬 Connect with Me  
+<p align="center">
+  <a href="mailto:rblenon18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/renielyn-lenon-237449376/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 📈 GitHub Stats  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=renielyn&theme=dracula&hide_border=true&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renielyn&show_icons=true&theme=dracula&hide_border=true" height="150" />
+</div>
