@@ -8,6 +8,8 @@
 📊 Currently learning **Data Analytics, Python, and SQL** to blend design with insights.  
 ⚡ Fun fact: Founder of [KodeCraze.com](https://kodecraze.com/)  
 
+---
+
 ### 🚀 Languages I Know  
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
@@ -25,11 +27,3 @@
   <a href="mailto:rblenon18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/renielyn-lenon-237449376/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
-
-### 📈 GitHub Stats  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=renielyn&theme=dracula&hide_border=true&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ren&show_icons=true&theme=dracula&hide_border=true" height="150" />
-</div>
