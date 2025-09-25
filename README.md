@@ -31,5 +31,5 @@
 ### 📈 GitHub Stats  
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=renielyn&theme=dracula&hide_border=true&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=renielyn&show_icons=true&theme=dracula&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ren&show_icons=true&theme=dracula&hide_border=true" height="150" />
 </div>
