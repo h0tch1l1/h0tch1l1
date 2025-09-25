@@ -4,11 +4,9 @@
 ---
 
 ### 🌍 About Me  
-👩‍💻 I’m **REN** — passionate about **WordPress design, SEO, and programming**.  
+👩‍💻 I’m **Ren** — passionate about **WordPress design, SEO, and programming**.  
 📊 Currently learning **Data Analytics, Python, and SQL** to blend design with insights.  
 ⚡ Fun fact: Founder of [KodeCraze.com](https://kodecraze.com/)  
-
----
 
 ### 🚀 Languages I Know  
 <div align="center">
